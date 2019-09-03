@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.dm.payment</groupId>
-	<artifactId>pessoa-payments-serivce</artifactId>
+	<groupId>com.dm.ecommerce</groupId>
+	<artifactId>e-commerce-payments-serivce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>pessoa-payments-serivce</name>
-	<description>Serviço de pagamentos</description>
+	<name>e-commerce-payments-serivce</name>
+	<description>Web Service de pagamentos</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

@@ -9,10 +9,11 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.pamcary</groupId>
-	<artifactId>avaliacao</artifactId>
-	<version>1.0.0</version>
-	<name>avaliacao</name>
+	
+	<groupId>br.com.ecommerce</groupId>
+	<artifactId>e-commerce-report-service</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>e-commerce-report-service</name>
 	<description>Projeto API Spring Cloud</description>
 
 	<properties>
