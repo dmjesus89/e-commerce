@@ -1,6 +1,6 @@
 spring:
   application:
-    name: pessoa-eureka-server
+    name: e-commerce-eureka-server
   cloud:
     config:
       uri: http://localhost:9090

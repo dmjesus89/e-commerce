@@ -1,6 +1,6 @@
 spring:
   application:
-    name: pessoa-payments-service
+    name: e-commerce-payments-service
   cloud:
     config:
       uri: http://localhost:9090

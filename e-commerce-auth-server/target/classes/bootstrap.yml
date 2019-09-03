@@ -1,6 +1,6 @@
 spring:
   application:
-    name: pessoa-auth-server
+    name: e-commerce-auth-server
   cloud:
     config:
       uri: http://localhost:9090
